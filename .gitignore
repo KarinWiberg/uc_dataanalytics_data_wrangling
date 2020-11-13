@@ -8,3 +8,9 @@ features.txt
 bestofrt.tsv
 rt_html/
 ebert_reviews/
+adverse_reactions.csv
+bestofrt.db
+bestofrt_posters/
+patients.csv
+treatments.csv
+treatments_cut.csv
